@@ -1,0 +1,20 @@
+.purple{
+    color:purple;
+}
+.red{
+    color:red;
+}
+.navColor{
+    background-color:darkolivegreen;
+}
+.BGColor{
+    background-color:peru;
+}
+.open-sans{
+    font-family: 'Open Sans', sans-serif;
+}
+.home-jumbotron{
+    background-image:url(../photos/sneakers-photo.jpg);
+    
+    height:50vh;
+}
